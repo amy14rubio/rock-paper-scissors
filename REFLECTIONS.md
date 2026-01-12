@@ -1,7 +1,5 @@
 1. Share one aspect of building this project you found challenging and how you overcame it.
-
-[Write your reflection here]
+   One aspect I found challenging was using and understanding the `readline` package. I initially used `readline` because I thought it would make animating the rock-paper-scissors countdown easier than using `prompt-sync`, but at first, I wasn’t familiar with how callbacks worked to handle asynchronous input. I overcame this by experimenting with `rl.question` and practicing passing callback functions so that the game flow could return to the menu after each round. This helped me understand how to control program flow using readline.
 
 2. Share one technical concept that you gained a deeper understanding of through building this project. Explain that concept in simple terms and explain how it is used in your project.
-
-[Write your reflection here]
+   One technical concept I gained a deeper understanding of was the idea of an orchestrator/coordinator class, in my case the `App` class in `App.js`. Using this class made the project cleaner and more organized, because it manages user interaction and calls methods on the `Game` class, instead of mixing game logic with user interaction. This taught me the importance of `separation of concerns`.
