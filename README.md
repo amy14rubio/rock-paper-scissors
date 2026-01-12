@@ -19,14 +19,14 @@ This application demonstrates an interactive CLI game experience with animated o
 Follow these steps to get started:
 
 ```console
-// Clone the repo
+# Clone the repo
 git clone [repo_url]
 cd [repo_name]
 
-// Install dependencies
+# Install dependencies
 npm install
 
-// Run the application
+# Run the application
 node app.js
 ```
 
