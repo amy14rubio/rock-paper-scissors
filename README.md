@@ -20,8 +20,8 @@ Each round features an animated ASCII countdown before revealing both choices an
 
 <div align="center">
   
-<img width="500" alt="rock-paper-scissors1" src="https://github.com/user-attachments/assets/6f475bc7-2be7-4329-884d-22356fc006d4" />
-<img width="500" alt="rock-paper-scissors2" src="https://github.com/user-attachments/assets/7957f432-a515-4a07-9f17-561e936672c8" />
+<img width="400" alt="rock-paper-scissors1" src="https://github.com/user-attachments/assets/6f475bc7-2be7-4329-884d-22356fc006d4" />
+<img width="400" alt="rock-paper-scissors2" src="https://github.com/user-attachments/assets/7957f432-a515-4a07-9f17-561e936672c8" />
 
 </div>
 
