@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/amy14rubio/rock-paper-scissors/issues"
   },
-  "homepage": "https://github.com/amy14rubio/rock-paper-scissors#readme"
+  "homepage": "https://github.com/amy14rubio/rock-paper-scissors#readme",
+  "dependencies": {
+    "play-sound": "^1.1.6"
+  }
 }
